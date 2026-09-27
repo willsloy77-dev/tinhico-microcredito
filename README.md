@@ -35,3 +35,4 @@ Estrutura inicial do website institucional da Tinhico.
 - Cadastro de cliente completo incluído (frontend)
 - Pedido rápido via WhatsApp incluído
 - Validação em camadas no frontend; upload/backend ainda não ligado
+"# tinhico-microcredito" 
